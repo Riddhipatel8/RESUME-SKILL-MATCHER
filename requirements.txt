@@ -1,0 +1,6 @@
+streamlit 
+python-dotenv
+pypdf
+google-generativeai
+PyMuPDF
+streamlit-lottie
